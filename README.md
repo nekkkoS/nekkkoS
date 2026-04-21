@@ -1,10 +1,6 @@
 <h2 align="center">Hi there 👋</h2>
 
 <p align="center">
-  welcome to my profile
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nekkkoS/nekkkoS/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nekkkoS/nekkkoS/output/github-snake.svg" />
